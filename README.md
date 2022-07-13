@@ -4,7 +4,7 @@ Contém todas as atividades por __[mim](https://www.linkedin.com/in/marcos-bonac
 
 >"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-## Fundamentos do Desenvolvimento Web :heavy_check_mark:
+## Fundamentos do Desenvolvimento Web
 
 ##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/paulohbsimoes/trybe-exercises/tree/master/01-fundamentos/bloco-01-unix-bash-e-shell-script)
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
